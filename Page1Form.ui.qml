@@ -14,8 +14,11 @@ Item {
 
         Bubble {
             id: bubble
-            x: 0
-            y: 0
+            centerX: mainWindow.width / 2
+            centerY: mainWindow.height / 2
+            bubbleCenter: bubble.width / 2
+            x: bubble.centerX - bubble.bubbleCenter
+            y: bubble.centerY - bubble.bubbleCenter
         }
     }
 
