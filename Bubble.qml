@@ -49,4 +49,17 @@ Image {
 
     }
 
+    Behavior on y {
+        SmoothedAnimation {
+            easing.type: Easing.Linear
+            duration: 100
+        }
+    }
+    Behavior on x {
+        SmoothedAnimation {
+            easing.type: Easing.Linear
+            duration: 100
+        }
+    }
+
 }
