@@ -4,7 +4,7 @@
         <file>Page1.qml</file>
         <file>Page1Form.ui.qml</file>
         <file>qtquickcontrols2.conf</file>
-        <file>sign.png</file>
         <file>Bubble.qml</file>
+        <file>Bluebubble.svg</file>
     </qresource>
 </RCC>

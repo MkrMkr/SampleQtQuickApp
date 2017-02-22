@@ -6,7 +6,7 @@ import QtSensors 5.5
 
 Image {
     id: bubble
-    source: "sign.png"
+    source: "Bluebubble.svg"
     smooth: true
     property real centerX
     property real centerY

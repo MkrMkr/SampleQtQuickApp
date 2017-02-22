@@ -1,4 +1,4 @@
-QT += qml quick svg xml gui core
+QT += qml quick svg xml gui core sensors
 
 CONFIG += c++11
 
